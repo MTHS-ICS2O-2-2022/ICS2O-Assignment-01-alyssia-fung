@@ -1,4 +1,48 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Alyssiafung
+* Created on: feb 2023
 * This file contains the CSS for index.html
 */
+
+/* Styling the body element like body color and margin */
+body {
+  background-color: #00fa9a6b;
+  margin: 25%;
+}
+
+/* Styling the Title and giving shadow to the title */
+#title {
+  text-align: center;
+  text-shadow: 8px 8px 14px rgba(255 255 255 56.5%);
+  font-size: 4rem;
+}
+
+/* Setting width and display type of image */
+img {
+  display: inline-block;
+  width: 20%;
+}
+
+/* Setting font color and font size of the image-caption */
+#caption {
+  font-size: 14px;
+  font-family: Gill Sans;
+  color: rgba(0 0 0 0);
+}
+
+/* Styling the content of the page like-padding, font-size, font color etc.*/
+div#tribute-data {
+  background-color: rgba(139 46 125 99.6%);
+  box-shadow: 6px 6px 6px #98FB98;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px 30px;
+  margin: 6px;
+  margin-top: 5px;
+}
+
+/* Styling the title of the content */
+h1.title-Andrew Chi Chih Yao {
+  font-size: 6px;
+  color: rgba(255 255 255 62.3%);
+  text-align: center;
+  text-shadow: 10px 10px 15px rgba(0 0 0 33.9%);
+}
