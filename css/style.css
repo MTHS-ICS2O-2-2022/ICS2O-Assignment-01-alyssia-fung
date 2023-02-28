@@ -29,7 +29,7 @@ img {
   color: rgba(0 0 0 0%);
 }
 
-/* Styling the content of the page like-padding, font-size, font color etc.*/
+"/* Styling the content of the page like-padding, font-size, font color etc.*/"
 div#tribute-data {
   background-color: rgba(139 46 125 99.6%);
   box-shadow: 6px 6px 6px #98fb98;
@@ -40,7 +40,7 @@ div#tribute-data {
 }
 
 /* Styling the title of the content */
-h1.title-Andrew chi chih yao {
+h1.title-Andrewchichihyao {
   font-size: 6px;
   color: rgba(255 255 255 62.3%);
   text-align: center;
