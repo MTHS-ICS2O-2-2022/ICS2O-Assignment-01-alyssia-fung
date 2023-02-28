@@ -39,8 +39,8 @@ div#tribute-data {
   margin-top: 5px;
 }
 
-/* Styling the title of the content */
- h1 "^[a-z][a-z0-9_-]+$.title-Andrewchichihyao” {
+/* Styling the title of the content */{
+ h1 "^[a-z][a-z0-9_-]+$.title-Andrewchichihyao” 
   font-size: 6px;
   color: rgba(255 255 255 62.3%);
   text-align: center;
