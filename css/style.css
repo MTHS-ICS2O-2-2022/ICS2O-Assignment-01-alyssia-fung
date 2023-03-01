@@ -40,10 +40,9 @@ div#tribute-data {
 }
 
 /* Styling the title of the content */
-  {h1 "^[a-z][a-z0-9_-]+$.title-Andrewchichihyao”} {
+  h1 ["^[a-z][a-z0-9_-]+$"] title-Andrewchichihyao {
   font-size: 6px;
   color: rgba(255 255 255 62.3%);
   text-align: center;
   text-shadow: 10px 10px 15px rgba(0 0 0 33.9%)
   }
-  
